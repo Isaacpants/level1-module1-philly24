@@ -6,7 +6,6 @@ public static void main(String[] args) {
 	
 	hp.makeInvisible(true);
 	hp.spyOnSnape();
-
 	hp.castSpell("Stupefy");
 }
 }
